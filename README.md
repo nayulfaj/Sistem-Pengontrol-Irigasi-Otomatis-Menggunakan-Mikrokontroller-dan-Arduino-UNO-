@@ -13,7 +13,7 @@ Dengan menggunakan sistem pengontrol irigasi otomatis agar dapat memudahkan peta
 - Implementasi Rancangan
 - Pengujian Hasil Penelitian
 
-## Pengujian yang Dilakukan
+### Pengujian yang Dilakukan
 
 - Pengujian LCD 
 - Pengujian Motor Servo 
